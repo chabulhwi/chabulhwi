@@ -1,6 +1,9 @@
-My GitHub repositories are read-only mirrors of [the ones hosted on SourceHut](https://sr.ht/~chabulhwi/).
+My GitHub repositories are **read-only mirrors** of [the ones hosted on SourceHut](https://sr.ht/~chabulhwi/).
 
-If you want to send patches upstream, visit my repository's summary page on the git.sr.ht website and click the large blue "Prepare a patchset" button to start up the patchset editor.
+If you want to send patches upstream, please do the following:
+
+1. Visit my repository's summary page on [the git.sr.ht website](https://git.sr.ht/~chabulhwi/).
+1. Click the large blue "Prepare a patchset" button to start up the patchset editor.
 
 For information about preparing a patchset, see https://man.sr.ht/git.sr.ht/#sending-patches-upstream.
 
