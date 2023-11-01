@@ -1,4 +1,4 @@
-My GitHub repositories are **read-only mirrors** of [the ones hosted on SourceHut](https://sr.ht/~chabulhwi/).
+The GitHub repositories I created are **read-only mirrors** of [the ones hosted on SourceHut](https://sr.ht/~chabulhwi/).
 
 If you want to send patches upstream, please do the following:
 
