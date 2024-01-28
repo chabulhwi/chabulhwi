@@ -1,6 +1,7 @@
-The GitHub repositories I created are **read-only mirrors** of [the ones hosted
-on SourceHut][srht]. If you want to send patches upstream, please refer to
-https://man.sr.ht/git.sr.ht/#sending-patches-upstream.
+* The GitHub repositories I created are **read-only mirrors** of [the ones
+  hosted on SourceHut][srht].
+* If you want to send patches upstream, please refer to
+  https://man.sr.ht/git.sr.ht/#sending-patches-upstream.
 
 [srht]: https://sr.ht/~chabulhwi/
 
