@@ -1,11 +1,8 @@
-The GitHub repositories I created are **read-only mirrors** of [the ones hosted on SourceHut](https://sr.ht/~chabulhwi/).
+The GitHub repositories I created are **read-only mirrors** of [the ones hosted
+on SourceHut][srht]. If you want to send patches upstream, please refer to
+https://man.sr.ht/git.sr.ht/#sending-patches-upstream.
 
-If you want to send patches upstream, please do the following:
-
-1. Visit my repository's summary page on [the git.sr.ht website](https://git.sr.ht/~chabulhwi/).
-1. Click the large blue "Prepare a patchset" button to start up the patchset editor.
-
-For information about preparing a patchset, see https://man.sr.ht/git.sr.ht/#sending-patches-upstream.
+[srht]: https://sr.ht/~chabulhwi/
 
 <!--
 **chabulhwi/chabulhwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
