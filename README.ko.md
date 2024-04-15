@@ -1,8 +1,8 @@
-English | [한국어[Korean]](./README.ko.md)
+[English (영어)](./README.md) | 한국어
 
-* The GitHub repositories I created are **read-only mirrors** of [the ones
-  hosted on SourceHut][srht].
-* If you want to send patches upstream, please refer to
+* 제가 만든 모든 깃허브 저장소는 [소스헛에 호스팅 한 저장소][srht]의 **읽기
+  전용 미러**입니다.
+* 업스트림으로 패치를 보내고 싶다면 다음 문서를 참고해 주세요.
   https://man.sr.ht/git.sr.ht/#sending-patches-upstream.
 
 [srht]: https://sr.ht/~chabulhwi/
