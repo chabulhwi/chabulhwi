@@ -3,7 +3,7 @@
 * 제가 만든 모든 깃허브 저장소는 [소스헛에 호스팅 한 저장소][srht]의 **읽기
   전용 미러**입니다.
 * 업스트림으로 패치를 보내고 싶다면 다음 문서를 참고해 주세요.
-  https://man.sr.ht/git.sr.ht/#sending-patches-upstream.
+  https://man.sr.ht/git.sr.ht/#sending-patches-upstream
 
 [srht]: https://sr.ht/~chabulhwi/
 
